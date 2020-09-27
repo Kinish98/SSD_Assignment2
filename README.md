@@ -16,10 +16,15 @@ redirect URI is https://localhost: 3000.
 3. After that the following commands should be executed.
 
 •	“npm init -y” - In this process, the project has to create a npm server package. 
+
 •	“npm i express cors body-parser” – Install the dependencies.
+
 •	“npm i googleapis” - Install the google API for access the Auth processers.
+
 •	“npm i multer” - In this process support for middleware handling.
+
 •	“npm i formidable” – Access the form data 
+
 •	“npm i -D nodeman” – create the project 
 
 
